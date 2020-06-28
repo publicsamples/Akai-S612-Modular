@@ -1,0 +1,6 @@
+// this file was generated from BLIPBASS.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=1 hikey=36 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=000 hivel=042 amp_velcurve_042=1 sample=../Audio/Multisamples/X0Xsawblip-s612-polezero/x0x-s612-p0-C1-C11-42-FJYT.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 sample=../Audio/Multisamples/X0Xsawblip-s612-polezero/x0x-s612-p0-C1-C143-85-7ICB.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1

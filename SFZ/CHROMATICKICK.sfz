@@ -1,0 +1,4 @@
+// this file was generated from CHROMATICKICK.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=12 hikey=40 pitch_keycenter=37 seq_length=2 seq_position=2 pitch_keytrack=0
+	<region> lovel=000 hivel=127 amp_velcurve_127=1

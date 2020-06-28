@@ -1,0 +1,8 @@
+// this file was generated from TRIPLICATEBASS.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=0 hikey=48 pitch_keycenter=48 pitch_keytrack=1
+	<region> lovel=000 hivel=042 amp_velcurve_042=1 sample=../Audio/Multisamples/X0Xsawbass-s612-polezero-L/x0x-s612-p0-C2-C21-127-S220.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 sample=../Audio/Multisamples/X0Xsawbass-s612-polezero-m/x0x-s612-p0-C2-C21-127-X9KF.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 sample=../Audio/Multisamples/X0Xsawbass-s612-polezero-h/x0x-s612-p0-C2-C21-127-VUKG.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=000 hivel=042 amp_velcurve_042=1
