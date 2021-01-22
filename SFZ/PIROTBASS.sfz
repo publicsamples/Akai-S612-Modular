@@ -1,4 +1,8 @@
-// this file was generated from PIROTBASS.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - PIROTBASS.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
 
-<group>lokey=0 hikey=127 pitch_keycenter=60 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Bass n blips/braidsstuff.513.wav
+<control>
+default_path=../Audio/Bass n blips/
+
+<group>
+<region> sample=braidsstuff.513.wav key=60 lokey=0 hikey=127 loop_mode=no_loop

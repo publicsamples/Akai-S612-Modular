@@ -1,3 +1,23 @@
-// this file was generated from 64NOTES.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - 64NOTES.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
 
-<group>lokey=3 hikey=107 pitch_keycenter=36
+<control>
+default_path=../Audio/Multisamples/plox/
+
+<group>
+<region> sample=ob-s612-CRX7.aif key=36 lokey=3 hikey=107 lovel=1 hivel=7 tune=3 offset=575 loop_mode=loop_continuous loop_start=52572 loop_end=134341
+<region> sample=ob-s612-1JDY.aif key=36 lokey=3 hikey=107 lovel=8 hivel=15 tune=3 offset=331 loop_mode=loop_continuous loop_start=52452 loop_end=133544
+<region> sample=ob-s612-J660.aif key=36 lokey=3 hikey=107 lovel=16 hivel=23 tune=3 offset=512 loop_mode=loop_continuous loop_start=52648 loop_end=133741
+<region> sample=ob-s612-8STN.aif key=36 lokey=3 hikey=107 lovel=24 hivel=31 tune=3 offset=378 loop_mode=loop_continuous loop_start=318153 loop_end=410755
+<region> sample=ob-s612-9LIE.aif key=36 lokey=3 hikey=107 lovel=32 hivel=39 tune=3 offset=367 end=640770 loop_mode=loop_continuous loop_start=293149 loop_end=386427
+<region> sample=ob-s612-WI3Q.aif key=36 lokey=3 hikey=107 lovel=40 hivel=47 tune=3 offset=213 end=631024 loop_mode=loop_continuous loop_start=153823 loop_end=426213
+<region> sample=ob-s612-BNDR.aif key=36 lokey=3 hikey=107 lovel=48 hivel=55 tune=3 offset=265 end=643390 loop_mode=loop_continuous loop_start=153873 loop_end=426263
+<region> sample=ob-s612-9ZTE.aif key=36 lokey=3 hikey=107 lovel=56 hivel=63 tune=3 offset=345 loop_mode=loop_continuous loop_start=153969 loop_end=426359
+<region> sample=ob-s612-9PSH.aif key=36 lokey=3 hikey=107 lovel=64 hivel=71 tune=3 offset=232 end=634837 loop_mode=loop_continuous loop_start=153803 loop_end=426193
+<region> sample=ob-s612-JZT8.aif key=36 lokey=3 hikey=107 lovel=72 hivel=79 tune=3 offset=374 end=646837 loop_mode=loop_continuous loop_start=156660 loop_end=429050
+<region> sample=ob-s612-B6AC.aif key=36 lokey=3 hikey=107 lovel=80 hivel=87 tune=3 offset=317 loop_mode=loop_continuous loop_start=152501 loop_end=424891
+<region> sample=ob-s612-34CV.aif key=36 lokey=3 hikey=107 lovel=88 hivel=95 tune=3 offset=378 loop_mode=loop_continuous loop_start=156690 loop_end=429079
+<region> sample=ob-s612-RC4Y.aif key=36 lokey=3 hikey=107 lovel=96 hivel=103 tune=3 offset=358 loop_mode=loop_continuous loop_start=156668 loop_end=429057
+<region> sample=ob-s612-8NMQ.aif key=36 lokey=3 hikey=107 lovel=104 hivel=111 tune=3 offset=421 loop_mode=loop_continuous loop_start=153313 loop_end=425703
+<region> sample=ob-s612-MLYS.aif key=36 lokey=3 hikey=107 lovel=112 hivel=119 tune=3 offset=259 loop_mode=loop_continuous loop_start=152488 loop_end=424878
+<region> sample=ob-s612-FXHN.aif key=36 lokey=3 hikey=107 lovel=120 hivel=127 tune=3 offset=295 loop_mode=loop_continuous loop_start=153183 loop_end=425572
