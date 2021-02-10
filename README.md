@@ -11,6 +11,14 @@ This collection pairs an Akai S612 with a Eurorack modular, A Elektron Machinedr
 
   **Audio:**https://www.dropbox.com/sh/vubeucx38hvp80e/AAAr1kwsb20Aa0KhfrXJkvs5a?dl=0)
   
+  <div align="center">
+      <a href="https://youtube.com/playlist?list=PL8Rp79UJ5uBD18D4QcxVMn3nRXk1tOQE4">
+     <img 
+      src="https://github.com/publicsamples/Akai-S612-Modular/raw/master/loop.png" 
+      alt="Video Demo" 
+      style="width:100%;">
+      </a>
+    </div>
   
 # Loading
 
