@@ -8,6 +8,7 @@ This collection pairs an Akai S612 with a Eurorack modular, A Elektron Machinedr
 -   **Formats:** EXS24, Kontakt & SFZ
 -   **Approx Size:** 2GB
 -   **Info:** [encyclotronic.com](https://encyclotronic.com/synthesizers/akai/akai-s612-midi-digital-sampler-r870/)
+- [Web Audio Demo](https://www.modularsamples.com/Demos/demos/s612.html)
 
   **Audio:**https://www.dropbox.com/sh/vubeucx38hvp80e/AAAr1kwsb20Aa0KhfrXJkvs5a?dl=0)
   
