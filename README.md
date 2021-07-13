@@ -3,7 +3,7 @@
 What happens when you sample a modular synth with an Akai S612 and then record the results into a PC? Something like this..
 This collection pairs an Akai S612 with a Eurorack modular, A Elektron Machinedrum and a Jomox 999 . Hundreds of one shots, drums and patches.
 
-**[Latest Release with Audio](https://github.com/publicsamples/Akai-S612-Modular/releases/tag/1.1)**
+# [Latest Release with Audio](https://github.com/publicsamples/Akai-S612-Modular/releases/tag/1.1)
 
 -   **Patches**: 100+
 - **Sounds**: 100+
