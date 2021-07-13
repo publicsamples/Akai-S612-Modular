@@ -3,9 +3,7 @@
 What happens when you sample a modular synth with an Akai S612 and then record the results into a PC? Something like this..
 This collection pairs an Akai S612 with a Eurorack modular, A Elektron Machinedrum and a Jomox 999 . Hundreds of one shots, drums and patches.
 
-**This collection requires you to download the audio seperately**
-
-[Download Audio from Dropbox](https://www.dropbox.com/sh/vubeucx38hvp80e/AAAr1kwsb20Aa0KhfrXJkvs5a?dl=0)
+# [Latest Release with Audio](https://github.com/publicsamples/Akai-S612-Modular/releases/tag/1.1)
 
 -   **Patches**: 100+
 - **Sounds**: 100+
@@ -62,5 +60,5 @@ The SFZ format is supported by a wide variety of synths and samplers as such, sp
 [Report issues](/issues) - [Buy a Sample Library](https://gumroad.com/modularsamples) - [Become a Patreon](https://www.patreon.com/modularsamples) - [Add new patches & Formats](/pulls)
 
 [
-![Sample library disks](https://github.com/publicsamples/Public-Samples/raw/master/images/drives2.jpg?raw=true)
-](https://gum.co/modularsamples-drives)
+![Excessive Hits](http://www.modularsamples.com/samples/product/excessive-hits/excessive-small.jpg)
+](https://gum.co/UvfQy)
